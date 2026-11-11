@@ -1,0 +1,10 @@
+id: YDP700BT007-V1
+category: displays
+size: "7"
+panel: tft
+resolution: 1024x600
+interface: [mipi]
+driver: JD9165BA
+touch: GT1151QM
+outline: 175.88 x 112.58 x 5.25 mm
+active_area: 154.2144 x 85.92 mm
